@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	pkgerrs "github.com/pkg/errors"
-	"github.com/zoobr/csxlib/dbschema/schemafield"
+	"github.com/zoobr/csxschema/schemafield"
 
 	"github.com/golang-migrate/migrate/v4"
 	"github.com/golang-migrate/migrate/v4/database/mysql"

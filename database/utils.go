@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/zoobr/csxlib/dbschema/schemafield"
+	"github.com/zoobr/csxschema/schemafield"
 
 	pkgerrs "github.com/pkg/errors"
 )

@@ -3,7 +3,7 @@ package database
 import (
 	"github.com/jmoiron/sqlx"
 	pkgerrs "github.com/pkg/errors"
-	"github.com/zoobr/csxlib/dbschema/schemafield"
+	"github.com/zoobr/csxschema/schemafield"
 )
 
 type Driver string // type of database driver (postgres, mysql etc)
